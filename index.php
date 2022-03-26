@@ -28,7 +28,7 @@ include("conecta.php");
 </div>
 
   <div class="login-box">
-    <img src="logootaku2.jpg" class="avatar" alt="Avatar Image" />
+    <img src="logo.jpg" class="avatar" alt="Avatar Image" />
     <h1>- Bienvenido -</h1>
     <form name="fregistro" id="fregistro" method="POST" action="login.php">
       <!-- USERNAME INPUT -->
