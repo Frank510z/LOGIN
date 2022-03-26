@@ -13,7 +13,7 @@ include("conecta.php");
 
 <body>
   <div class="registro-box">
-    <img src="logootaku.jpg" class="avatar" alt="Avatar Image" />
+    <img src="logo.jpg" class="avatar" alt="Avatar Image" />
     <h1>- REGISTRO -</h1>
     <form name="fregistro" id="fregistro" method="POST" action="">
       <label for="nombre">Usuario:</label>
